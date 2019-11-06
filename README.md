@@ -1,4 +1,5 @@
 # flutter_fashion_app_ui
+![fashionAppUI](https://user-images.githubusercontent.com/33973828/68301142-20f77d80-00c1-11ea-894d-dd9cc983b4ea.png)
 
 A new Flutter project.
 
